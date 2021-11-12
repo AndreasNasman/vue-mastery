@@ -1,0 +1,496 @@
+{
+  "date_added": "13280014119906907",
+  "date_modified": "0",
+  "guid": "0358424a-a33c-4f82-82ce-e2fd0fb6e2d8",
+  "id": "3497",
+  "name": "Vue Mastery",
+  "type": "folder",
+  "children": [
+    {
+      "date_added": "13280014119907578",
+      "date_modified": "0",
+      "guid": "bfbc0ce2-4928-42d8-a475-5f9963fe00a4",
+      "id": "3498",
+      "name": "✅ Intro to Vue 2",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13254184984000000",
+          "guid": "2dae5a97-d537-42b9-8873-035cce8817ef",
+          "id": "3499",
+          "name": "Challenge 1 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/pen/qxwZBQ"
+        },
+        {
+          "date_added": "13254185267000000",
+          "guid": "407967ab-a41e-4161-9b93-6a9ee5a94589",
+          "id": "3500",
+          "name": "Solution 1 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/pen/JpVXXw"
+        },
+        {
+          "date_added": "13254185594000000",
+          "guid": "7bf54095-821d-4ca5-8733-26055f688e52",
+          "id": "3501",
+          "name": "Stylesheet for Vue Mastery's Intro to Vue course",
+          "type": "url",
+          "url": "https://gist.github.com/atomjar/67db5aa9b7b9013dcf0d91c91f54e1a9"
+        },
+        {
+          "date_added": "13254185600000000",
+          "guid": "eaafc54d-2621-4ac6-afd9-35c0fb08a52f",
+          "id": "3502",
+          "name": "vmSocks-green-onWhite.jpg (1600×1600)",
+          "type": "url",
+          "url": "https://www.vuemastery.com/images/challenges/vmSocks-green-onWhite.jpg"
+        },
+        {
+          "date_added": "13254234211000000",
+          "guid": "73e2429c-5056-4090-aec1-245bf9eb1252",
+          "id": "3503",
+          "name": "Challenge 2 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/bzXpYW"
+        },
+        {
+          "date_added": "13254234223000000",
+          "guid": "e0bbf1dc-33da-466c-b1c8-f7a87e7c9a02",
+          "id": "3504",
+          "name": "Solution 2 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/pGMyda"
+        },
+        {
+          "date_added": "13254234282000000",
+          "guid": "acb4208a-480a-4b74-87c8-ae367ee78b43",
+          "id": "3505",
+          "name": "Challenge 3 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/omKxoK"
+        },
+        {
+          "date_added": "13254234284000000",
+          "guid": "a4e7ca45-9122-41ab-a95c-2ccf4f25a795",
+          "id": "3506",
+          "name": "Solution 3 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/vboGpO"
+        },
+        {
+          "date_added": "13254234303000000",
+          "guid": "2caf43ea-a481-4000-a1f0-9793697dd509",
+          "id": "3507",
+          "name": "Challenge 4 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/QYeNaq"
+        },
+        {
+          "date_added": "13254234307000000",
+          "guid": "2a22b9df-02c6-4d3f-b47e-941385f2f50d",
+          "id": "3508",
+          "name": "Solution 4 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/ErqKoG"
+        },
+        {
+          "date_added": "13254358998000000",
+          "guid": "3a530ef6-1026-4beb-aad6-800107ebf01d",
+          "id": "3509",
+          "name": "vmSocks-blue-onWhite.jpg (1600×1600)",
+          "type": "url",
+          "url": "https://www.vuemastery.com/images/challenges/vmSocks-blue-onWhite.jpg"
+        },
+        {
+          "date_added": "13254359016000000",
+          "guid": "8420fb04-4903-4327-8ec7-03941bf39d3f",
+          "id": "3510",
+          "name": "Challenge 5 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/wNVGyJ"
+        },
+        {
+          "date_added": "13254359019000000",
+          "guid": "135e32c6-29da-4773-97e5-e33a91f83d02",
+          "id": "3511",
+          "name": "Solution 5 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/QYeNQq"
+        },
+        {
+          "date_added": "13254360481000000",
+          "guid": "7b3bef84-8378-4e46-9303-f6afc51e34c8",
+          "id": "3512",
+          "name": "Challenge 6 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/XOvdZy"
+        },
+        {
+          "date_added": "13254360484000000",
+          "guid": "bd42b381-378a-47f1-a031-2881c9303cac",
+          "id": "3513",
+          "name": "Solution 6 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/YBmqaX"
+        },
+        {
+          "date_added": "13254416805000000",
+          "guid": "4c44a605-4d6b-4d88-9023-78066f55cdff",
+          "id": "3514",
+          "name": "Challenge 7 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/bzXpvR?editors=1011"
+        },
+        {
+          "date_added": "13254416811000000",
+          "guid": "1732c939-60e6-4aa5-a517-fffe85f390a1",
+          "id": "3515",
+          "name": "Solution 7 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/KJOzoQ?editors=1011"
+        },
+        {
+          "date_added": "13254481783000000",
+          "guid": "193c2f9c-2419-40d5-9146-cae581370700",
+          "id": "3516",
+          "name": "7 Ways To Define A Component Template in VueJS | by Anthony Gore | Vue.js Developers | Medium",
+          "type": "url",
+          "url": "https://medium.com/js-dojo/7-ways-to-define-a-component-template-in-vuejs-c04e0c72900d"
+        },
+        {
+          "date_added": "13254481786000000",
+          "guid": "c3196032-db3f-40da-9af6-7b4a1fb299c7",
+          "id": "3517",
+          "name": "Challenge 8 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/mvNPLP?editors=1111"
+        },
+        {
+          "date_added": "13254481788000000",
+          "guid": "6a473af3-91ec-4efb-878b-136a1dd65080",
+          "id": "3518",
+          "name": "Solution 8 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/NoQNMv"
+        },
+        {
+          "date_added": "13254501061000000",
+          "guid": "b509e813-ba88-4ca3-aae3-8af2383943d6",
+          "id": "3519",
+          "name": "Challenge 9 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/XOvdqy"
+        },
+        {
+          "date_added": "13254501063000000",
+          "guid": "2a00c3fa-6b14-4862-9a5f-de5ede777f04",
+          "id": "3520",
+          "name": "Solution 9 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/JxgXvq"
+        },
+        {
+          "date_added": "13254787389000000",
+          "guid": "a71eb4a2-e13d-4d2b-ab57-40fa8a9e5f4d",
+          "id": "3521",
+          "name": "Form Input Bindings — Vue.js",
+          "type": "url",
+          "url": "https://vuejs.org/v2/guide/forms.html#Modifiers"
+        },
+        {
+          "date_added": "13254787398000000",
+          "guid": "17fce936-e49e-4aae-b114-e152db6fdac7",
+          "id": "3522",
+          "name": "Event Handling — Vue.js",
+          "type": "url",
+          "url": "https://vuejs.org/v2/guide/events.html#Event-Modifiers"
+        },
+        {
+          "date_added": "13254787400000000",
+          "guid": "63cb80ce-00d9-433f-ac1d-1693a96e4bcc",
+          "id": "3523",
+          "name": "Form Validation — Vue.js",
+          "type": "url",
+          "url": "https://vuejs.org/v2/cookbook/form-validation.html#Another-Example-of-Custom-Validation"
+        },
+        {
+          "date_added": "13254787402000000",
+          "guid": "5b6973de-0b2e-4a97-84bc-99abd665479e",
+          "id": "3524",
+          "name": "Challenge 10 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/jdgqKY?editors=1010"
+        },
+        {
+          "date_added": "13254787405000000",
+          "guid": "76e97bc9-929e-4c60-91e0-889994ea3a32",
+          "id": "3525",
+          "name": "Solution 10 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/zegqae?editors=1010"
+        },
+        {
+          "date_added": "13254788805000000",
+          "guid": "95816f1c-118f-4ed8-91e2-b42354d5cc56",
+          "id": "3526",
+          "name": "Challenge 11 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/BMXKOR?editors=1111"
+        },
+        {
+          "date_added": "13254788813000000",
+          "guid": "0999b43a-5a6d-48ab-9df2-b6f86eb347d8",
+          "id": "3527",
+          "name": "Solution 11 - Intro to Vue",
+          "type": "url",
+          "url": "https://codepen.io/GreggPollack/pen/zegqJe"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119912165",
+      "date_modified": "0",
+      "guid": "cb698385-6f2c-4eb4-9c00-8b7ca28f6aaa",
+      "id": "3528",
+      "name": "✅ Intro to Vue 3",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13254835098000000",
+          "guid": "a8cd21ae-8554-4126-bb2b-51725fb4b7a0",
+          "id": "3529",
+          "name": "Vue Mastery on CodePen",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/projects/public?cursor=ZD0xJm89MCZwPTEmdj01MTcwODI="
+        },
+        {
+          "date_added": "13254835103000000",
+          "guid": "c365613c-6ac5-4fa1-b20e-bab4afe7f5ba",
+          "id": "3530",
+          "name": "Code-Pop/Intro-to-Vue-3: Code for Vue Mastery's Intro to Vue 3 course:",
+          "type": "url",
+          "url": "https://github.com/Code-Pop/Intro-to-Vue-3"
+        },
+        {
+          "date_added": "13256590895000000",
+          "guid": "1b196cb5-eb27-414c-95b9-482e87cfc8fc",
+          "id": "3531",
+          "name": "Intro to Vue 3 - L2 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/XvJmbL"
+        },
+        {
+          "date_added": "13256590901000000",
+          "guid": "fa4fdcb6-18ab-4177-a49a-2ea78aae1ba6",
+          "id": "3532",
+          "name": "Intro to Vue 3 - L2 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/AmzmvE"
+        },
+        {
+          "date_added": "13261142148000000",
+          "guid": "cc789e89-e4e1-4da9-b345-b458a0211c0c",
+          "id": "3533",
+          "name": "Intro to Vue 3 - L3 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/ZWEjLe"
+        },
+        {
+          "date_added": "13261142150000000",
+          "guid": "0d1fcce5-726b-4664-83fa-25c816382b81",
+          "id": "3534",
+          "name": "Intro to Vue 3 - L3 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/AqemLM"
+        },
+        {
+          "date_added": "13261232957000000",
+          "guid": "a352c3d7-f118-4522-8c9f-e7980d2d65cd",
+          "id": "3535",
+          "name": "Intro to Vue 3 - L4 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/AayWgg"
+        },
+        {
+          "date_added": "13261232970000000",
+          "guid": "21b5e6e6-2d63-4042-90a2-15297250cbef",
+          "id": "3536",
+          "name": "Intro to Vue 3 - L4 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/XqemMd"
+        },
+        {
+          "date_added": "13261475862000000",
+          "guid": "fec7d8c8-9011-4102-89dd-24fec828d222",
+          "id": "3537",
+          "name": "Intro to Vue 3 - L5 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/XLjywE"
+        },
+        {
+          "date_added": "13261475898000000",
+          "guid": "2313e6bd-9b29-4aae-82d7-99739fee0583",
+          "id": "3538",
+          "name": "Intro to Vue 3 - L5 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/XoMWKj"
+        },
+        {
+          "date_added": "13261485438000000",
+          "guid": "7460ad34-a9de-49da-95be-9f85c0905141",
+          "id": "3539",
+          "name": "Intro to Vue 3 - L6 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/DdrWxb"
+        },
+        {
+          "date_added": "13261485440000000",
+          "guid": "5f14d6b0-160c-425e-9a0e-571f50114eea",
+          "id": "3540",
+          "name": "Intro to Vue 3 - L6 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/AVrboM"
+        },
+        {
+          "date_added": "13261488139000000",
+          "guid": "1492f8b6-3c6b-4903-b06a-ddb77b301039",
+          "id": "3541",
+          "name": "Intro to Vue 3 - L7 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/AYxVmq"
+        },
+        {
+          "date_added": "13261488143000000",
+          "guid": "742ee70f-9858-496f-bab7-e6eb69e4a65e",
+          "id": "3542",
+          "name": "Intro to Vue 3 - L7 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/XmzmNO"
+        },
+        {
+          "date_added": "13261570349000000",
+          "guid": "0fafeb95-0ebd-4ca0-9a96-ee235ec954e6",
+          "id": "3543",
+          "name": "Intro to Vue 3 - L8 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/ZGvmVn"
+        },
+        {
+          "date_added": "13261570351000000",
+          "guid": "731f9597-9b5d-4e78-ac96-95a7264bdc67",
+          "id": "3544",
+          "name": "Intro to Vue 3 - L8 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/XgxWVm"
+        },
+        {
+          "date_added": "13261578837000000",
+          "guid": "38d245b1-14ef-43ac-a15b-a846ad7e21ca",
+          "id": "3545",
+          "name": "Intro to Vue 3 - L9 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/DOjmKg"
+        },
+        {
+          "date_added": "13261578839000000",
+          "guid": "c186970c-534d-4dec-a933-0bdbb3facf53",
+          "id": "3546",
+          "name": "Intro to Vue 3 - L9 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/DBdRed"
+        },
+        {
+          "date_added": "13261583929000000",
+          "guid": "336f3881-4522-42e6-a3b0-9fccf576118a",
+          "id": "3547",
+          "name": "Intro to Vue 3 - L10 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/ARkgop"
+        },
+        {
+          "date_added": "13261583931000000",
+          "guid": "ceeeb184-4209-4341-be6b-03a1c965ea0f",
+          "id": "3548",
+          "name": "Intro to Vue 3 - L10 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/XGvENE"
+        },
+        {
+          "date_added": "13262693482000000",
+          "guid": "84d3fc89-5120-428f-bd72-6a09c87a61e5",
+          "id": "3549",
+          "name": "Intro to Vue 3 - L11 Starting Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/DVrWmK"
+        },
+        {
+          "date_added": "13262693487000000",
+          "guid": "5f947970-0d89-490b-a057-715973eb2f9e",
+          "id": "3550",
+          "name": "Intro to Vue 3 - L11 Ending Code",
+          "type": "url",
+          "url": "https://codepen.io/VueMastery/project/editor/XvJkyg"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119915556",
+      "date_modified": "0",
+      "guid": "f15c5004-3672-4ca6-a429-fc0cee96f0ed",
+      "id": "3551",
+      "name": "✅ Vue 3 Composition API",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13263551213000000",
+          "guid": "fbbe3141-b0cd-4234-9ba1-bf337078b704",
+          "id": "3552",
+          "name": "Download Free Vue 3 Cheat Sheet | Vue Mastery",
+          "type": "url",
+          "url": "https://www.vuemastery.com/vue-3-cheat-sheet/"
+        },
+        {
+          "date_added": "13263551218000000",
+          "guid": "f2d1b309-85fb-4838-8f0a-58ecf2105f52",
+          "id": "3553",
+          "name": "vuejs/composition-api: Composition API plugin for Vue 2",
+          "type": "url",
+          "url": "https://github.com/vuejs/composition-api"
+        },
+        {
+          "date_added": "13263557105000000",
+          "guid": "ae199b8e-6d79-48bb-8574-1e6f4c20ce8a",
+          "id": "3554",
+          "name": "Vue Skeleton Loading Screen using Suspense Components — Daily Vue #4 | by Matt Maribojoc | JavaScript in Plain English",
+          "type": "url",
+          "url": "https://javascript.plainenglish.io/vue-skeleton-loading-screen-using-suspense-components-daily-vue-4-e34d5291cb38"
+        },
+        {
+          "date_added": "13263557109000000",
+          "guid": "e6bd2619-f2b8-4f4b-882a-3b09124a23fa",
+          "id": "3555",
+          "name": "Building Skeleton Screens with CSS Custom Properties | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/building-skeleton-screens-css-custom-properties/"
+        },
+        {
+          "date_added": "13263558131000000",
+          "guid": "23f11e7d-6f5f-41ab-985f-34a41bf5eaf5",
+          "id": "3556",
+          "name": "rfcs/0025-teleport.md at rfc-portals · vuejs/rfcs",
+          "type": "url",
+          "url": "https://github.com/vuejs/rfcs/blob/rfc-portals/active-rfcs/0025-teleport.md"
+        }
+      ]
+    },
+    {
+      "date_added": "13258675806000000",
+      "guid": "48c29f92-33ff-48a0-ab2a-e000380983f7",
+      "id": "3557",
+      "name": "Vue Mastery | The Ultimate Learning Resource for Vue.js Developers",
+      "type": "url",
+      "url": "https://www.vuemastery.com/"
+    }
+  ]
+}
